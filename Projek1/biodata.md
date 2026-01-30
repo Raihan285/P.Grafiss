@@ -1,4 +1,6 @@
-<img width="589" height="229" alt="image" src="https://github.com/user-attachments/assets/308c7b65-692f-4e80-868d-b8edf2e0321f" />
+
+<img width="650" height="248" alt="image" src="https://github.com/user-attachments/assets/28254fc6-9ff2-4df6-a71e-38e11681c1a8" />
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
