@@ -5,6 +5,7 @@ Sesudah di klik :
 
 Berikut adalah code nya :
 
+```
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -151,3 +152,4 @@ public class interaktif_button extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel1;
     // End of variables declaration                   
 }
+```
