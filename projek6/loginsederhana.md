@@ -6,6 +6,9 @@ Berikut adalah setelah login :
 
 <img width="285" height="177" alt="image" src="https://github.com/user-attachments/assets/47f4f3f8-697f-4d13-afce-b199395537fb" />
 
+Berikut jika login gagal :
+<img width="280" height="168" alt="image" src="https://github.com/user-attachments/assets/75b42aa4-e79d-4ec9-b363-9cdfbadb4d5d" />
+
 Berikut adalah codingan nya :
 
 ```
