@@ -5,6 +5,8 @@ Sesudah Memasukkan data :
 <img width="320" height="157" alt="image" src="https://github.com/user-attachments/assets/a85a3a1c-43a1-4ca3-8870-822135d763f8" />
 
 Berikut adalah code nya :
+
+```
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -142,3 +144,4 @@ public class formdata extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField1;
     // End of variables declaration                   
 }
+```
