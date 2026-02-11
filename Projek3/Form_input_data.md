@@ -2,7 +2,11 @@ Sebelum Memasukkan data :
 
 <img width="330" height="150" alt="image" src="https://github.com/user-attachments/assets/5dfe6acf-fbc9-4957-bebe-ad2f5ce7375f" />
 
-Sesudah Memasukkan data :
+Saat Memasukkan data :
+
+<img width="292" height="145" alt="image" src="https://github.com/user-attachments/assets/36bd5951-540b-4f2e-93f8-6475ac39c6db" />
+
+Sesudah Menekan Submit :
 
 <img width="320" height="157" alt="image" src="https://github.com/user-attachments/assets/a85a3a1c-43a1-4ca3-8870-822135d763f8" />
 
