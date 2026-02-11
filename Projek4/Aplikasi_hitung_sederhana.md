@@ -1,7 +1,9 @@
 Sebelum melakukan perhitungan :
+
 <img width="334" height="196" alt="image" src="https://github.com/user-attachments/assets/140bdf0c-b348-467a-91c3-bc09d2d5e758" />
 
 Sesudah melakukan perhitungan :
+
 <img width="332" height="194" alt="image" src="https://github.com/user-attachments/assets/bed5dfcd-97b0-4408-96fc-54e27a4c1f42" />
 
 Berikut adalah codingan nya :
