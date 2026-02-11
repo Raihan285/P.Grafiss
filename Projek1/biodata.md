@@ -1,5 +1,8 @@
+Berikut adalah Hasilnya :
 
 <img width="650" height="248" alt="image" src="https://github.com/user-attachments/assets/28254fc6-9ff2-4df6-a71e-38e11681c1a8" />
+
+Berikut adalah Codingan nya :
 
 ```
 /*
